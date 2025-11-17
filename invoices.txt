@@ -1,0 +1,42 @@
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-001
+Ngày: 15/01/2025
+Tổng tiền: 5.200.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-002
+Ngày: 28/01/2025
+Tổng tiền: 3.400.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-003
+Ngày: 03/02/2025
+Tổng tiền: 7.800.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-004
+Ngày: 20/02/2025
+Tổng tiền: 2.650.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-005
+Ngày: 11/03/2025
+Tổng tiền: 9.150.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-006
+Ngày: 26/03/2025
+Tổng tiền: 1.850.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-007
+Ngày: 02/04/2025
+Tổng tiền: 4.600.000 VND
+---
+HÓA ĐƠN BÁN HÀNG
+Số hóa đơn: HD2025-008
+Ngày: 19/04/2025
+Tổng tiền: 7.200.000 VND
+---
+
+Vui lòng tính tổng doanh thu mỗi tháng và vẽ biểu đồ doanh thu theo tháng, sau đó in lại danh sách hóa đơn đã trích xuất.
