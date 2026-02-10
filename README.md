@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:06b6d4&height=140&section=header&text=Invoice%20Agent&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Style-ReAct--Workflow-22c55e?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Groq%20API-06b6d4?logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Output-Structured%20JSON-a855f7?logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart-Matplotlib-f97316?logo=plotly&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Extract → Store → Aggregate → Visualize</b>
+</p>
+
+---
+
 # Invoice Agent
 
 ## Overview
